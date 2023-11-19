@@ -11,7 +11,7 @@ The purpose of this exercise was to determine if applicants would be successful 
 Data Preprocessing
 
 What variable(s) are the target(s) for your model?
-  *
+  * Target variable is "IS_SUCCESSFUL"
 
 What variable(s) are the features for your model?
   *
