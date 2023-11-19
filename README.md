@@ -26,6 +26,9 @@ How many neurons, layers, and activation functions did you select for your neura
 Initial Model:
 ![image](https://github.com/JasmineK20/deep-learning-challenge/assets/135649789/02f6a919-30ad-457e-a0d0-48c67c192bac)
 
+
+
+
 Neurons: 80 (Layer 1) and 30 (Layer 2)
 Layers: 2
 Activation Function: ReLU for hidden layers and Sigmoid for the output layer
