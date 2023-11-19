@@ -21,7 +21,6 @@ What variable(s) should be removed from the input data because they are neither 
   * In the optimization model, the "EIN" column was dropped, and the "NAME" column was binned and replaced.
 
 ### Compiling, Training, and Evaluating the Model
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
 Initial Model:
 
@@ -30,7 +29,7 @@ Initial Model:
 
 
 
-
+How many neurons, layers, and activation functions did you select for your neural network model, and why?
 Neurons: 80 (Layer 1) and 30 (Layer 2)
 
 Layers: 2
