@@ -30,6 +30,7 @@ Initial Model:
 
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
+
 Neurons: 80 (Layer 1) and 30 (Layer 2)
 
 Layers: 2
