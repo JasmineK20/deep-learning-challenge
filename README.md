@@ -51,6 +51,18 @@ Optimization Model:
 
 Were you able to achieve the target model performance?
 
+Initial Model: 
+
+![image](https://github.com/JasmineK20/deep-learning-challenge/assets/135649789/ffb3dc8a-3b34-4efc-8578-a7ee5184e054)
+
+Accuracy: 72.7%
+
+Optimization Model: 
+
+![image](https://github.com/JasmineK20/deep-learning-challenge/assets/135649789/8f1ce78a-eaee-4b9c-9635-dafd0b396f0b)
+
+Accuaracy: Approximately 77.5%
+
 
 What steps did you take in your attempts to increase model performance?
 
