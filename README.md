@@ -32,7 +32,9 @@ Initial Model:
 
 
 Neurons: 80 (Layer 1) and 30 (Layer 2)
+
 Layers: 2
+
 Activation Function: ReLU for hidden layers and Sigmoid for the output layer
 
 
