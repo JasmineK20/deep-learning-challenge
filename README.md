@@ -37,10 +37,17 @@ How many neurons, layers, and activation functions did you select for your neura
 
 * Activation Function: ReLU for hidden layers and Sigmoid for the output layer
 
+Optimization Model: 
 
 
+![image](https://github.com/JasmineK20/deep-learning-challenge/assets/135649789/25543b18-1537-4e3b-a9ce-e5b37a98088f)
 
 
+* Neurons:  7 (Layer 1), 14 (Layer 2), and 21 (Layer 3)
+
+* Layers: 3
+
+* Activation Function: ReLU for hidden layers and Sigmoid for the output layer
 
 Were you able to achieve the target model performance?
 
