@@ -66,5 +66,9 @@ Accuaracy: Approximately 77.5%
 
 What steps did you take in your attempts to increase model performance?
 
+* Removed EIN and added a third layer 
+
+
+
 
 
