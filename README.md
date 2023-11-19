@@ -33,4 +33,4 @@ What variable(s) are the features for your model?
     ASK_AMT—Funding amount requested
 
 What variable(s) should be removed from the input data because they are neither targets nor features?
-  *
+  * In the optimization model, the "EIN" column was dropped, and the "NAME" column was binned and replaced.
