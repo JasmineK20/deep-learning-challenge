@@ -24,6 +24,8 @@ What variable(s) should be removed from the input data because they are neither 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
 Initial Model:
+
+
 ![image](https://github.com/JasmineK20/deep-learning-challenge/assets/135649789/02f6a919-30ad-457e-a0d0-48c67c192bac)
 
 
